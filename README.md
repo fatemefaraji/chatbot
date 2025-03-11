@@ -64,7 +64,7 @@ Installation
     bash
     Copy
 
-    git clone https://github.com/fatemefaraji/chatbot-reformer.git
+    git clone https://github.com/fatemefaraji/chatbot.git
     cd chatbot-reformer
 
     Download the Data:
